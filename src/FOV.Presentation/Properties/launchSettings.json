@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FOV.Presentation (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FOV.Presentation (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
